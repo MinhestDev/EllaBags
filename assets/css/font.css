@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/tp/T0368/font/Montserrat-Light.ttf');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/tp/T0368/font/Montserrat-Regular.ttf');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/tp/T0368/font/Montserrat-Medium.ttf');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/tp/T0368/font/Montserrat-SemiBold.ttf');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/tp/T0368/font/Montserrat-Bold.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/tp/T0368/font/Roboto-Light.ttf');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/tp/T0368/font/Roboto-Regular.ttf');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/tp/T0368/font/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-display: swap;
+}
